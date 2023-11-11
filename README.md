@@ -2,3 +2,5 @@
 
 # Salvando modificado
 
+#comando git pull
+
